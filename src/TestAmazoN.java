@@ -62,6 +62,7 @@ public static void main(String[] args) throws InterruptedException {
 		
 		act.moveToElement(ele).moveToElement(driver.findElement(By.xpath("//*[@id=\"nav-tools\"]/a[2]"))).click();
 		
+		System.out.println("thala pola varuma");
 		
 		
 		
